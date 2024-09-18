@@ -2,7 +2,7 @@
 Lesson 3 - Using Strings
 Author: Joyce Chen
 Date Created: September 17th, 2023
-Date Last Modified: September 17th, 2023
+Date Last Modified: September 18th, 2023
 '''
 
 def q1():
@@ -13,8 +13,8 @@ def q1():
 
 def q2():
   #Write Assignment code here
-  print ("Hello ", end ="")
-  print ("World\n")
+  print ('Hello ', end ="")
+  print ('World\n')
 
 def q3():
   #Write Assignment code here
